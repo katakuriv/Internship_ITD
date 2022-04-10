@@ -1,0 +1,12 @@
+C:\Users\dqanh\source\repos\Chat App\Chat_client\bin\Debug\Chat_client.exe.config
+C:\Users\dqanh\source\repos\Chat App\Chat_client\bin\Debug\Chat_client.exe
+C:\Users\dqanh\source\repos\Chat App\Chat_client\bin\Debug\Chat_client.pdb
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.csproj.AssemblyReference.cache
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.csproj.SuggestedBindingRedirects.cache
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.Properties.Resources.resources
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.csproj.GenerateResource.cache
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.csproj.CoreCompileInputs.cache
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.exe
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.pdb
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.FormClientPublic.resources
+C:\Users\dqanh\source\repos\Chat App\Chat_client\obj\Debug\Chat_client.FormClientPrivate.resources
